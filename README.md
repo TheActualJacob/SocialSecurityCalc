@@ -10,3 +10,9 @@
 ### Put in how many years you plan to start taking social secuirity payments, in the right box under "amount of years".
 
 ### Finally press the "calculate" button.
+
+
+
+## *note*
+
+*This was my first big python project :) may add to it later on*
